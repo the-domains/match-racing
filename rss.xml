@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Match Racing!]]></title>
+        <description><![CDATA[Match Racing!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 04:34:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to MATCH RACING!</p>]]></description>
+            <link>undefinedwelcome-to-match-racing/index.html</link>
+            <guid isPermaLink="false">b315a35b-0e46-4c89-93f3-2b7515ba8441</guid>
+            <pubDate>Fri, 05 Aug 2016 04:34:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
