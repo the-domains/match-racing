@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Match Racing!]]></title>
         <description><![CDATA[Match Racing!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/match-racing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 04:34:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 04:43:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/match-racing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to MATCH RACING!</p>]]></description>
-            <link>undefinedwelcome-to-match-racing/index.html</link>
+            <link>https://thegrid.ai/match-racing/welcome-to-match-racing/index.html</link>
             <guid isPermaLink="false">b315a35b-0e46-4c89-93f3-2b7515ba8441</guid>
-            <pubDate>Fri, 05 Aug 2016 04:34:00 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 04:43:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
