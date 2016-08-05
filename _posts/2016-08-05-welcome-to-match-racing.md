@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to MATCH RACING!
-datePublished: '2016-08-05T04:43:29.286Z'
-dateModified: '2016-08-05T04:34:08.087Z'
+datePublished: '2016-08-05T04:51:06.181Z'
+dateModified: '2016-08-05T04:50:55.587Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-05-welcome-to-match-racing.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: welcome-to-match-racing/index.html
 _type: Article
 
@@ -25,3 +25,5 @@ Pro, semipro, and exhibition drag racing is the coolest thing going. The NHRA bi
 Our aim is to make MATCH RACING the place you can open on a daily basis to find these awesome racing results. And we intend to do it in a great looking, easy to read format. We are just getting this bad boy fired up (and we didn't magically find any more time in our weeks), so it may be a while before we get going. But the way MATCH RACING works -- using Artificial Intelligence (AI) to publish the stories -- should help with that (in fact, it's why we are even trying this crazy thing!) So hang in there with us and hold on to your hats... we hope to thrill you with the color and excitement of MATCH RACING soon!
 
 Bill Pratt and Danny White, Draglist.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41400c29-0463-48a2-8bc5-a71686d2800f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c38bc9-39bb-4a2d-b2e4-5871261423bd.jpg)
